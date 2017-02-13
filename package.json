@@ -1,0 +1,12 @@
+{
+  "name": "perux",
+  "version": "1.0.0",
+  "description": "Perux is a tool for UX Design",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ./"
+  },
+  "author": "",
+  "license": "ISC"
+}
